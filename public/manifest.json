@@ -1,0 +1,39 @@
+{
+  "name": "E-market",
+  "short_name": "E-market",
+  "theme_color": "#08397a",
+  "background_color": "#115b96",
+  "display": "standalone",
+  "scope": "/",
+  "start_url": "/",
+  
+  "icons": [
+    {
+      "src": "maskable.png",
+      "type": "image/png",
+      "sizes": "192x192",
+      "purpose": "any maskable"
+    },
+    {
+      "src": "logo192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "logo256.png",
+      "type": "image/png",
+      "sizes": "256x256"
+    },
+    {
+      "src": "logo384.png",
+      "type": "image/png",
+      "sizes": "384x384"
+    },
+    {
+      "src": "logo512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ]
+ 
+}
